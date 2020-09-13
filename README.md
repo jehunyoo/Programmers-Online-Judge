@@ -6,6 +6,7 @@
 
 - 크레인 인형 뽑기 게임 : [[C++](claw_crane_game.cpp)] [[Python](claw_crane_game.py)]
 - 모의고사 : [[C++](mock.cpp)] [[Python](mock.py)]
+- 소수 찾기 : [[Python](count_prime_numbers.py)]
 
 ### Level 2
 
