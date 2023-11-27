@@ -17,7 +17,13 @@
 ### Level 3
 
 - 네트워크 : [[C++ (DFS)](network_dfs.cpp)] [[C++ (BFS)](network_bfs.cpp)] [[Python (DFS)](network_dfs.py)] [[Python (BFS)](network_bfs.py)]
+- 표현 가능한 이진트리: [[Java](표현가능한이진트리.java)]
+- 미로 탈출 명령어: [[Java](미로탈출명령어.java)]
+- 등산코스 정하기: [[Java](등산코스정하기.java)]
+- 코딩테스트 공부 (⭐️): [[Java](코딩테스트공부.java)]
 
 ### References
 
 - 2019 카카오 개발자 겨울 인턴십
+- 2022 KAKAO TECH INTERNSHIP
+- 2023 KAKAO BLIND RECRUITMENT
